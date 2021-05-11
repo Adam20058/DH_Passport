@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+.custom-home-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+  img{
+    height: 250px;
+    width: auto;
+  }
+}
+
+.j-center{
+    display: flex;
+    justify-content: center;
+}
+.custom-center {
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+  .custom-button-bottom{
+    margin-bottom: 20px;
+  }
+  .right {
+    margin-right: 15px;
+  }
+  
+  .auto-left {
+    margin-left: auto;
+  }
+  
+  .custom-border-top {
+    border-top: solid 1px #dfdfdf;
+  }
+  
+  .custom-body-center {
+    margin-left: 260px !important;
+    margin-right: 300px !important;
+  }
+  
+  .custom-card-bottom {
+    margin-bottom: 60px;
+  }
+  
+  .borders {
+    border: solid black 1px;
+  }
+  
+  .icon-padding {
+    padding: 20px;
+  }
+  
+  .p-margin {
+    margin-bottom: 10px !important;
+    margin-left: 10px;
+  }
+  
+  .custom-followers {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 170px;
+    margin-bottom: 1.2rem;
+  }
+  
+  .center-container {
+    margin: auto;
+  }
+  
+  .custom-profile-margin {
+    margin-bottom: 1.2rem;
+  }
+  
+  .custom-post-margin {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .custom-login {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .custom-login-button {
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+  }
+  
+  .custom-flex {
+    display: flex;
+    justify-content: center;
+    padding: 1.2rem;
+  }
+  .custom-create-post{
+    max-width: 40%;
+    margin: auto;
+    margin-top: 4rem;
+  }
+  
+  .flex-center{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .no-link{
+    color: black;
+  }
+  
+  .m-bottom{
+    margin-bottom: 15px;
+  }
+  
+  .btn{
+    cursor: pointer;
+  }
+  
+  .x-logo{
+    top: 10px;
+    right: 10px;
+  }
+  
+  .heart{
+    color: red;
+  }
+
+  .m-top{
+    margin-top: 40px;
+  }
